@@ -1,2 +1,2 @@
-# Automa-o-Web
+# Automacao-Web
 Projeto para automatizar atividades na web utilizando Selenium
